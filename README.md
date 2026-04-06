@@ -9,7 +9,8 @@ Each program solves a real-world problem using fundamental operations like push,
 
 ## 👨‍🎓 Student Information
 
-* **Name:** P.Sunvith Kumar Reddy.
+* **Name:** P.Sunvith Kumar Reddy
+* CDS/2025/1201.
 * **Course:** Introduction to Data Structure
 
 ---
